@@ -12,14 +12,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Backend+Engineer;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Backend+Engineer;Machine+Learning+Enthusiast;Romotics+Intelligent+System;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 💡 Interests
 - Frontend Engineering  
-- Backend Engineering  
+- Backend Engineering
+- Robotics Intelligent System 
 - Machine Learning  
 
 ---

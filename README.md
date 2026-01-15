@@ -14,22 +14,28 @@
 </p>
 
 ---
+
 ## 💡 Interests
 - Frontend Engineering  
 - Backend Engineering
 - Robotics Intelligent System 
 - Machine Learning  
 ---
+
 ## 🧠 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,python" />
 </p>
+
 ---
+
 ## ⚙️ Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
+
 ---
+
 ## 🛠 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma" />

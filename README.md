@@ -1,11 +1,9 @@
 <h1 align="center">
   Hi, I am Zia 👋
 </h1>
-
 <h3 align="center">
   Software Engineer
 </h3>
-
 <p align="center">
   📍 Islamabad, Pakistan  
   🎓 Bahria University
@@ -16,29 +14,22 @@
 </p>
 
 ---
-
 ## 💡 Interests
 - Frontend Engineering  
 - Backend Engineering
 - Robotics Intelligent System 
 - Machine Learning  
-
 ---
-
 ## 🧠 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,python" />
 </p>
-
 ---
-
 ## ⚙️ Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
-
 ---
-
 ## 🛠 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
@@ -51,35 +42,14 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
-
 ---
-
 <p align="center">
   <p align="center">
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zia-codes&layout=compact&theme=tokyonight" />
 </p>
-
 </p>
-
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zia-codes&theme=tokyonight" />
 </p>
-
-
-<!--
-**zia-codes/zia-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

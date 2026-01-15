@@ -10,15 +10,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Backend+Engineer;Machine+Learning+Enthusiast;Romotics+Intelligent+System;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Romotics+Intelligent+System;Machine+Learning+Enthusiast;Frontend+Engineer;Backend+Engineer;Always+Learning+New+Things" />
 </p>
-
 ---
 
 ## 💡 Interests
+- Robotics Intelligent System 
 - Frontend Engineering  
 - Backend Engineering
-- Robotics Intelligent System 
 - Machine Learning  
 ---
 
@@ -26,14 +25,12 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js,python" />
 </p>
-
 ---
 
 ## ⚙️ Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
-
 ---
 
 ## 🛠 Tools
@@ -41,14 +38,12 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
-
 ---
 
 ## 🗄 Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
-
 ---
 
 <p align="center">

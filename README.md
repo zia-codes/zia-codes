@@ -28,7 +28,6 @@
 ## 🧠 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,python" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
@@ -60,12 +59,8 @@
 
 ## 🏆 Highlighted Projects
 <p align="left">
-  <a href="https://github.com/zia-codes/Eat-n-split">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zia-codes&repo=Eat-n-split_1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/zia-codes/Travel-list">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zia-codes&repo=Tracel-list_2&theme=tokyonight" />
-  </a>
+[Eat-n-split](https://github.com/zia-codes/Eat-n-split)  
+  <img src="https://img.shields.io/badge/Eat-n-split-Project-blue?style=for-the-badge" />
 </p>
 
 ---

@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I am Zia ur Rehman 👋
+  Hi, I am Zia 👋
 </h1>
 
 <h3 align="center">
@@ -14,14 +14,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Backend+Engineer;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 </p>
-
----
-
-## 🚀 About Me
-- 💻 Software Engineer with strong interest in modern development
-- 🌐 Passionate about building clean and scalable applications
-- 🤖 Curious about Machine Learning and AI
-- 📚 Currently studying and improving real world skills
 
 ---
 
@@ -58,14 +50,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
-
----
-
-## 🎯 Goals
-- Build production level projects  
-- Master frontend and backend systems  
-- Explore Machine Learning deeply  
-- Contribute to open source  
 
 ---
 

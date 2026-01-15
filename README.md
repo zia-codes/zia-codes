@@ -55,7 +55,10 @@
 <p align="center">
   <p align="center">
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zia-codes&layout=compact&theme=tokyonight" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zia-codes&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 </p>
 </p>
 </p>

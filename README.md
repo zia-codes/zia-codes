@@ -53,14 +53,10 @@
 ---
 
 <p align="center">
-  <p align="center">
-  <p align="center">
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zia-codes&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-</p>
-</p>
+  <p align="center"> 
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/React.js-Frontend-blue?style=for-the-badge&logo=react" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zia-codes&theme=tokyonight" />

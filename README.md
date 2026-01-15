@@ -61,10 +61,10 @@
 ## 🏆 Highlighted Projects
 <p align="left">
   <a href="https://github.com/zia-codes/Eat-n-split">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zia-codes&repo=YOUR_PROJECT_1&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zia-codes&repo=Eat-n-split_1&theme=tokyonight" />
   </a>
   <a href="https://github.com/zia-codes/Travel-list">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zia-codes&repo=YOUR_PROJECT_2&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zia-codes&repo=Tracel-list_2&theme=tokyonight" />
   </a>
 </p>
 

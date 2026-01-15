@@ -70,7 +70,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zia-codes&show_icons=true&theme=tokyonight" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zia-codes&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
 </p>
 
 <p align="center">
